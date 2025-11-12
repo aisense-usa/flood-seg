@@ -3,7 +3,7 @@
 This challenge is the entry step for our Nepal AI & Computer Vision Bootcamp. Using pre- and post-flood orthomosaics, you'll highlight damaged land and measure affected area. The goal is simple: find flooded land so communities can plan lost land recovery, collect insurance evidence, and build future resilience. Demonstrating how AI models can support disaster recovery and agricultural resilience across the Valley.
 
 
-## 🎯 Challenge
+## 🎯 Challenge v v v
 
 **Task:** Find land that changed due to flooding and measure how much.
 
