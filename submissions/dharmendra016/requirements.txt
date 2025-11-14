@@ -1,0 +1,13 @@
+rasterio
+numpy
+opencv-python
+scikit-image
+scipy
+torch
+torchvision
+tqdm
+matplotlib
+pillow
+shapely
+geopandas
+pandas
