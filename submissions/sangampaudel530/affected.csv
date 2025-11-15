@@ -1,0 +1,6 @@
+tile_id,center_x,center_y,area_m2,pre_flood_tile,post_flood_tile
+tile_0,256,256,232440,sample/cutouts\tile_0_pre.png,sample/cutouts\tile_0_post.png
+tile_1,256,256,245857,sample/cutouts\tile_1_pre.png,sample/cutouts\tile_1_post.png
+tile_2,256,256,245438,sample/cutouts\tile_2_pre.png,sample/cutouts\tile_2_post.png
+tile_3,256,256,261296,sample/cutouts\tile_3_pre.png,sample/cutouts\tile_3_post.png
+tile_4,256,256,178876,sample/cutouts\tile_4_pre.png,sample/cutouts\tile_4_post.png
